@@ -1,0 +1,10 @@
+crear una  carpeta en git  y entrar, 
+git clone http 
+no es necesario el git init ya que al hacer el git clone ya lo hacer
+
+mandar cambios directorio local al remoto 
+
+git remote add origin URL_del_repositorio_en_GitHub
+te va a pider un tu usuario y un token(developer seting)
+
+luego git push origin main
